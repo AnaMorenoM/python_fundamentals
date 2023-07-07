@@ -1,1 +1,3 @@
-print("Mi nombre es Ana Moreno")
+X= "Mi nombre es Ana Moreno"
+print(X)
+
